@@ -1,0 +1,7 @@
+alias home='cd /mnt/c/Users/aaoun'
+alias dev='cd /mnt/c/Users/aaoun/Developer'
+
+alias a='git add .'
+alias c='git commit -m'
+alias p='git push'
+alias s='git status'
