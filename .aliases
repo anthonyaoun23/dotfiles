@@ -1,7 +1,28 @@
-alias home='cd /mnt/c/Users/aaoun'
-alias dev='cd /mnt/c/Users/aaoun/Developer'
+# General aliases
+alias c="clear"
 
-alias a='git add .'
-alias c='git commit -m'
-alias p='git push'
-alias s='git status'
+#Vim aliases
+alias v="vim"
+
+# Git aliases
+alias g="git"
+alias ga="g add"
+alias gb="g branch"
+alias gc="g commit -m"
+alias gs="g status"
+alias gd="g diff"
+alias gl="g log"
+alias gf="g fetch"
+alias gm="g merge"
+alias gr="g rebase"
+alias gri="gr -i"
+alias grst="g reset"
+alias gps="g push"
+alias gpl="g pull"
+alias gu="g unstage"
+alias gg="g graph"
+alias ggg="g graphgpg"
+alias gco="g checkout"
+alias gbi="g bisect"
+alias gbis="g bisect start"
+alias gbir="g bisect reset"

@@ -4,7 +4,7 @@
 
 dir=~/dotfiles
 olddir=~/dotfiles_old
-files=".bashrc .vimrc .zshrc .tmux.conf .alacritty.yml"
+files=".bashrc .vimrc .zshrc .tmux.conf .alacritty.yml .alias"
 
 echo "Creating $olddir for backup of any existing dotfiles in ~"
 mkdir -p $olddir
